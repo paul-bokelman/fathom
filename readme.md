@@ -1,4 +1,4 @@
-![Fathom](https://github.com/user-attachments/assets/5132f761-0a15-4439-a813-98099dd335a8)
+![Fathom](https://github.com/user-attachments/assets/e6f21d02-8766-419e-b8ef-ae63e918123a)
 
 A tool to help you get a better understanding of any subject you want to learn.
 
