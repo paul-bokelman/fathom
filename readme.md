@@ -11,6 +11,10 @@ A tool to help you get a better understanding of any subject you want to learn.
 
 There is a difference between knowing and truly understanding a concept or idea. Verbally explaining a concept allows you to elevate your unconscious understanding into a conscious state. This elevation enables critical thinking about the previously unconscious information within the realm of consciousness. Furthermore, by explaining a concept to peers, you are compelled to identify errors and inconsistencies in your own understanding. This process fosters a rich, iterative cycle that refines your perspective and cultivates a more holistic grasp of the concept or subject.
 
+### Demo
+
+https://github.com/user-attachments/assets/3ec84679-2a29-478d-b3c8-071fcfc53a0c
+
 ### Usage
 
 1. Clone repo
