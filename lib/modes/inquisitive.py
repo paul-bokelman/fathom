@@ -39,7 +39,7 @@ class Inquisitive(utils.Mode):
                     input_choice = input_type
 
                 message = self.client.messages.create(
-                    model="claude-3-haiku-20240307",
+                    model=constants.inquisitive_model,
                     max_tokens=constants.inquisitive_max_tokens,
                     system=self.system_prompt,
                     messages=[

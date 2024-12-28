@@ -23,6 +23,7 @@ There is a difference between knowing and truly understanding a concept or idea.
    - Control max audio length
    - Adjust max number of output tokens for each mode
    - Preferred input type
+   - Which model is being used
 5. Run with `python main.py` in selected environment or `venv/bin/python main.py`
 
 ### Additional Information

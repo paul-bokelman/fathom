@@ -63,7 +63,7 @@ class Compilation(utils.Mode):
                 print(colored("\nCompiling notes...", "dark_grey"))
                     
                 message = self.client.messages.create(
-                    model="claude-3-5-sonnet-20241022",
+                    model=constants.compilation_model,
                     max_tokens=constants.compilation_max_tokens,
                     system=self.system_prompt,
                     messages=[
