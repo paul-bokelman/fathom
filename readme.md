@@ -1,4 +1,6 @@
-Fathom: A tool to help you get a better understanding of any subject you want to learn.
+![Fathom](https://github.com/user-attachments/assets/5132f761-0a15-4439-a813-98099dd335a8)
+
+A tool to help you get a better understanding of any subject you want to learn.
 
 ### Core Features
 
@@ -7,7 +9,7 @@ Fathom: A tool to help you get a better understanding of any subject you want to
 
 ### Philosophy
 
-There's a difference between knowing and understanding a concept or idea. Explaining a concept verbally allows you to elevate your unconscious understanding to your conscious state. This elevation allows for critical thinking of the unconscious information in the domain of the consciousness. Additionally, by explaining a concept to peers you are forced to identify the errors and inconsistencies in your own understanding leading to a rich iterative process that hones in a more holistic view of the concept/subject.
+There is a difference between knowing and truly understanding a concept or idea. Verbally explaining a concept allows you to elevate your unconscious understanding into a conscious state. This elevation enables critical thinking about the previously unconscious information within the realm of consciousness. Furthermore, by explaining a concept to peers, you are compelled to identify errors and inconsistencies in your own understanding. This process fosters a rich, iterative cycle that refines your perspective and cultivates a more holistic grasp of the concept or subject.
 
 ### Usage
 
